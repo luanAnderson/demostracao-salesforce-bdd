@@ -1,0 +1,18 @@
+{
+  "name": "demostracao-salesforce-bdd",
+  "version": "1.0.0",
+  "description": "Projeto de demonstração no Salesforce com BDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luan Santos",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^3.2.2"
+  },
+  "devDependencies": {
+    "@reportportal/agent-js-codecept": "^0.2.4",
+    "playwright": "^1.17.1"
+  }
+}
